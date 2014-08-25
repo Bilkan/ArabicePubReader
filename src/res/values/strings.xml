@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">قارئ الكتب الإلكترونية</string>
+    <string name="app_name_en">Arabic Epub Reader</string>
+	<string name="settings_fflabel">خطوط النظام</string>
+	<string name="settings_fslabel">حجم الخط</string>
+	<string name="settings_fclabel">لون الخط</string>
+	<string name="settings_bclabel">لون الخلفية</string>
+	<string name="settings_mlabel">هوامش</string>
+	<string name="settings_pslabel">تقسيم للفقرات</string>
+	<string name="sample_1">مثال لعرض النص حسب الإعدادات المختارة.</string>
+	<string name="sample_2">حسب الإعدادات المختارة يمكنك احتيار الخواص المختلفة لعرض النص!</string>
+	<string name="file_has_err">الملف يوجد فيها خطأ</string>
+	<string name="chapter_has_err">الفصل يوجد فيه خطأ</string>
+	<string name="black">أسود</string>
+	<string name="blue">أزرق</string>
+	<string name="green">أخضر</string>
+	<string name="red">أحمر</string>
+	<string name="menu_toc">جدول المحتويات</string>
+	<string name="white">أبيض</string>
+	<string name="serching">بحث...</string>
+	<string name="loading">ئېچىلىۋاتىدۇ...</string>
+	<string name="settings_btn_ok">موافق</string>
+	<string name="settings_btn_cancel">إلغاء</string>
+	<string name="MenuOpen">فتح ملف</string>
+	<string name="MenuAbout">حول</string>
+	<string name="MenuSettings">إعدادات</string>
+	<string name="MenuExit">خروج</string>
+	<string name="tab_storage">فتح ملف</string>
+	<string name="tab_history">الملفات الحديثة</string>
+	<string name="alert">تنبيه</string>
+	<string name="file_moved">الملف محذوف أو نقل إلى مكان آخر</string>
+	<string name="About_content">قارئ الكتب الإلكترونية 1.0.2 \n قسم البرمجيات بشركة بلكان التقنية \n http://www.bilkan.net</string>
+</resources>
