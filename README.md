@@ -5,7 +5,8 @@ Arabic ePub Reader for non Arabic Supported Android Devices.
 
 
 Download Link:
-[Download from Google Play](https://play.google.com/store/apps/details?id=net.uyghurdev.arabicepubreader.re)
+---------
+* [Download from Google Play](https://play.google.com/store/apps/details?id=net.uyghurdev.arabicepubreader.re)
 
 Used Open Source Projects:
 ---------
